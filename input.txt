@@ -1,0 +1,18 @@
+what is callback?
+why do we need callback example
+create callback function
+function describtion
+newkeyword rules -->4 types
+prototype
+what is express
+what is router
+sample webserver using express
+what is npm
+diff node &npm
+how to check node js version
+what is unique about node js
+event loop
+what is blocking and unblocking?
+node vs tomcat
+Tomcat is a web server for web applications written in java.
+Node is a runtime environment for applications in javascript.
